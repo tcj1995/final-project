@@ -11,4 +11,4 @@ feature engineering | several days
 statistical summary | one week
 visualization | three weeks
 
-https://mybinder.org/v2/gh/tcj1995/final-project/master?filepath=https%3A%2F%2Fgithub.com%2Ftcj1995%2Ffinal-project%2Fblob%2Fmaster%2Ffinal.ipynb
+https://mybinder.org/v2/gh/tcj1995/final-project/master?filepath=final.ipynb
