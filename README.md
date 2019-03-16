@@ -12,4 +12,4 @@ statistical summary | one week
 visualization | three weeks
 
 # Final Project:
-[Final project](https://mybinder.org/v2/gh/tcj1995/final-project/master?filepath=final_project.ipynb)
+[Final project](https://mybinder.org/v2/gh/tcj1995/final-project/master?filepath=final.ipynb)
